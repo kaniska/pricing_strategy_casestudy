@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+
+  dash:
+    build:
+      context: .
+      dockerfile: Dockerfile.dash
+    container_name: Pricing-Strategy
+    command: python mainV2.py
+    volumes:
+      - .:/code
+    ports:
+      - "8081:8088"
