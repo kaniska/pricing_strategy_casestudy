@@ -7,7 +7,6 @@ import arviz as az
 
 pd.options.display.float_format = '{:,.2f}'.format
 df = pd.read_csv('data/product_salesV1.csv')
-#print(df.head(10))
 
 df['unit_price_l'] = np.log(df['unit_price'])
 df['units_sold_l'] = np.log(df['units_sold'])
