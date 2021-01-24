@@ -1,3 +1,11 @@
+## Pricing Strategy Source Data
+
+Following file contains sales data for some sample items of a hypothetical retail store.
+incr_sales is increase in sales for every 10% decrease in price
+incr_cvr is increase in conversion rate for every 10% decrease in price
+
+https://github.com/kaniska/pricing_strategy_casestudy/blob/master/App/BusinessFiles/product_salesV2.csv
+
 ## Pricing Strategy Project Report: 
 https://docs.google.com/document/d/160cJcj77YpMgLgxfxVaIy6yFoeMmXnCmr_Dd-wUpiqc/edit?usp=sharing  
 
