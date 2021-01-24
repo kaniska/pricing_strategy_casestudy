@@ -194,5 +194,6 @@ app.layout = html.Div(children=[
 # -------------------------- MAIN ---------------------------- #
 
 
+
 if __name__ == '__main__':
     app.run_server(host='0.0.0.0', port=8081, debug=False, use_reloader=False)
