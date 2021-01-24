@@ -8,6 +8,7 @@ import os
 import numpy as np
 import base64
 
+
 # -------------------------- functions ---------------------------- #
 def build_banner():
     return html.Div(
