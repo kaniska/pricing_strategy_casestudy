@@ -3,6 +3,7 @@ from ortools.linear_solver import pywraplp
 import pandas as pd
 import numpy as np
 
+
 def main():
     #Load Data
     data = pd.read_csv('data/product_salesV1.csv')
