@@ -1,4 +1,4 @@
-## PunchhMart Project Report: 
+## Pricing Strategy Project Report: 
 https://docs.google.com/document/d/160cJcj77YpMgLgxfxVaIy6yFoeMmXnCmr_Dd-wUpiqc/edit?usp=sharing  
 
 ## Exploratory Data Analysis
