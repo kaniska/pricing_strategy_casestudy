@@ -3,3 +3,4 @@ dash==1.18.1
 dash_core_components==1.14.1
 dash_html_components==1.1.1
 dash_table==4.11.1
+
