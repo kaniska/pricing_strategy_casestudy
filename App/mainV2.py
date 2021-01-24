@@ -8,6 +8,7 @@ import base64
 from urllib.parse import quote as urlquote
 import ProfitOptimizer as optim
 
+
 # -------------------------- UI Helpers ---------------------------- #
 
 def build_banner():
